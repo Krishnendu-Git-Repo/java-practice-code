@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BASIC_JAVA_PROGRAM/CountDuplicateValue/CountDuplicateValue.iml" filepath="$PROJECT_DIR$/BASIC_JAVA_PROGRAM/CountDuplicateValue/CountDuplicateValue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASIC_JAVA_PROGRAM/JavaTest/JavaTest.iml" filepath="$PROJECT_DIR$/BASIC_JAVA_PROGRAM/JavaTest/JavaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-practice-code.iml" filepath="$PROJECT_DIR$/java-practice-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASIC_JAVA_PROGRAM/practiceFI/practiceFI.iml" filepath="$PROJECT_DIR$/BASIC_JAVA_PROGRAM/practiceFI/practiceFI.iml" />
+    </modules>
+  </component>
+</project>
