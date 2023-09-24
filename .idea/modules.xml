@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BASIC_JAVA_PROGRAM/CountDuplicateValue/CountDuplicateValue.iml" filepath="$PROJECT_DIR$/BASIC_JAVA_PROGRAM/CountDuplicateValue/CountDuplicateValue.iml" />
       <module fileurl="file://$PROJECT_DIR$/BASIC_JAVA_PROGRAM/JavaTest/JavaTest.iml" filepath="$PROJECT_DIR$/BASIC_JAVA_PROGRAM/JavaTest/JavaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamApi/StreamApi.iml" filepath="$PROJECT_DIR$/StreamApi/StreamApi.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-practice-code.iml" filepath="$PROJECT_DIR$/java-practice-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/BASIC_JAVA_PROGRAM/practiceFI/practiceFI.iml" filepath="$PROJECT_DIR$/BASIC_JAVA_PROGRAM/practiceFI/practiceFI.iml" />
     </modules>
